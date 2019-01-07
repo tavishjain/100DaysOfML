@@ -5,11 +5,11 @@ This repository contains all the codes and history of what I did during the 100D
 # Day 1 - 1st January 2019
 Started off with the challenge and uploaded all the previously completed content
 
-# Day 2 - 2st January 2019
+# Day 2 - 2nd January 2019
 Learned python basics 
 
-# Day 3 - 3st January 2019
+# Day 3 - 3rd January 2019
 Learned about Multi-class classification 
 
-# Day 4 - 4st January 2019
+# Day 4 - 4th January 2019
 Learned about Neural Networks
