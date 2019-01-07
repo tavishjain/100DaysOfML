@@ -13,3 +13,9 @@ Learned about Multi-class classification
 
 # Day 4 - 4th January 2019
 Learned about Neural Networks
+
+# Day 5 - 5th January 2019
+Learned more about Neural Networks, their cost functions, backpropogation algorithm and random initialisation
+
+# Day 6 - 6th January 2019
+Learned about Neural Network's Implementations and implemented the basic cost function for it (regularised and non-regularised)
