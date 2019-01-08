@@ -19,3 +19,9 @@ Learned more about Neural Networks, their cost functions, backpropogation algori
 
 # Day 6 - 6th January 2019
 Learned about Neural Network's Implementations and implemented the basic cost function for it (regularised and non-regularised)
+
+# Day 7 - 7th January 2019
+Learned about the Backpropogation algorithm in Neural Networks, Gradient checks and Random initialisation
+
+# Day 8 - 8th January 2019
+Implemented the Backpropogation algorithm for neural networks, along with the gradient checks
