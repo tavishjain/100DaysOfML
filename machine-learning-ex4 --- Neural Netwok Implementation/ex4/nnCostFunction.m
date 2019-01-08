@@ -28,7 +28,7 @@ m = size(X, 1);
 % You need to return the following variables correctly 
 J = 0;
 Theta1_grad = zeros(size(Theta1));
-Theta2_grad = zeros(size(Theta2));
+Theta2_grad = zeros(size(Theta2)); 
 
 % ====================== YOUR CODE HERE ======================
 % Instructions: You should complete the code by working through the
