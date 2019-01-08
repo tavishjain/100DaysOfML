@@ -68,18 +68,34 @@ a2 = sigmoid(a1 * Theta1');
 a2 = [ones(m, 1) a2];
 a3 = sigmoid(a2 * Theta2');
 h = a3;
-
-y_one = ind2vec(y')';
-
-J = (-1)*(1/m)*sum(sum(y_one.*log(h) + (1-y_one).*log(1-h)));
+y = ind2vec(y')';
+J = (-1)*(1/m)*sum(sum(y.*log(h) + (1-y).*log(1-h)));
 
 %Starting the implementation of regularised cost function
 
 J = J + (lambda/(2*m))*(sum(sum(Theta1(:, 2:end).^2)) + sum(sum(Theta2(:, 2:end).^2)));
 
 
+del1 = zeros(size(Theta1));
+del2 = zeros(size(Theta2));
 
-
+for t = 1:m
+   
+    a1t = a1(t, :);
+    a2t = a2(t, :);
+    a3t = a3(t, :);
+    yt = y(t, :);
+    
+    d3 = a3t - yt;
+    
+    d2 = ((Theta2')*d3').*sigmoidGradient([1;Theta1 * a1t']);
+    
+    del1 = del1 + d2(2 : end)*a1t;
+    del2 = del2 + d3'*a2t;
+    
+end  
+Theta1_grad = del1/m + (lambda/m)*[zeros(size(Theta1, 1), 1) Theta1(: ,2:end)];
+Theta2_grad = del2/m + (lambda/m)*[zeros(size(Theta2, 1), 1) Theta2(:, 2:end)];
 
 
 
