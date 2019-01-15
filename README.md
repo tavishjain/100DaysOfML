@@ -25,3 +25,6 @@ Learned about the Backpropogation algorithm in Neural Networks, Gradient checks 
 
 # Day 8 - 8th January 2019
 Implemented the Backpropogation algorithm for neural networks, along with the gradient checks
+
+# Day 9 - 15th January 2019
+Learnt about Evaluating hypothesis, dividing our data into train, test and validation formats and Bias vs Variance
