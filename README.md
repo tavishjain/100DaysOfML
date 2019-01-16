@@ -28,3 +28,6 @@ Implemented the Backpropogation algorithm for neural networks, along with the gr
 
 # Day 9 - 15th January 2019
 Learnt about Evaluating hypothesis, dividing our data into train, test and validation formats and Bias vs Variance
+
+# Day 10 - 16th January 2019
+Learnt about Bias vs Variance and the Machine Learning System Design
