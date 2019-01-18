@@ -31,3 +31,9 @@ Learnt about Evaluating hypothesis, dividing our data into train, test and valid
 
 # Day 10 - 16th January 2019
 Learnt about Bias vs Variance and the Machine Learning System Design
+
+# Day 11 - 17th January 2019
+Implemented and observed various issues of high bias and high variance
+
+# Day 12 - 18th January 2019
+Implemented and observed various issues of high bias and high variance
