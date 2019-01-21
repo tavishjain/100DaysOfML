@@ -37,3 +37,15 @@ Implemented and observed various issues of high bias and high variance
 
 # Day 12 - 18th January 2019
 Implemented and observed various issues of high bias and high variance
+
+# Day 13 - 19th January 2019
+Learnt about Support Vector Machines 
+
+# Day 14 - 20th January 2019
+Learnt about various Kernels
+
+# Day 15 - 21th January 2019
+Implemented and observed Support Vector machines
+
+# Day 16 - 22th January 2019
+Implemented and observed Kernels and built a spam classifier
