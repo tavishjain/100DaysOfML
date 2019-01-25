@@ -50,11 +50,11 @@ Implemented and observed Support Vector machines
 # Day 16 - 22nd January 2019
 Implemented and observed Kernels and built a spam classifier
 
-# Day 14 - 23rd January 2019
+# Day 17 - 23rd January 2019
 Learnt about the Perceptron algorithm for Neural Networks - Nanodegree
 
-# Day 14 - 24th January 2019
+# Day 18 - 24th January 2019
 Implemented Gradient Descent - Nanodegree
 
-# Day 14 - 25th January 2019
+# Day 19 - 25th January 2019
 Learnt about Unsupervised learning, clustering, K-Means algorithm
