@@ -58,3 +58,9 @@ Implemented Gradient Descent - Nanodegree
 
 # Day 19 - 25th January 2019
 Learnt about Unsupervised learning, clustering, K-Means algorithm
+
+# Day 20 - 26th January 2019
+Implemented Gradient Descent Algorithm in Python - Nanodegree
+
+# Day 21 - 27th January 2019
+Implemented Backpropogation algorithm in Python - Nanodegree
