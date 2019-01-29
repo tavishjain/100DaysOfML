@@ -54,7 +54,7 @@ Implemented and observed Kernels and built a spam classifier
 Learnt about the Perceptron algorithm for Neural Networks - Nanodegree
 
 # Day 18 - 24th January 2019
-Implemented Gradient Descent - Nanodegree
+Matrices, NumPy, Python Refresher - Nanodegree
 
 # Day 19 - 25th January 2019
 Learnt about Unsupervised learning, clustering, K-Means algorithm
