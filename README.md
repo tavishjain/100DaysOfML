@@ -64,3 +64,12 @@ Implemented Gradient Descent Algorithm in Python - Nanodegree
 
 # Day 21 - 27th January 2019
 Implemented Backpropogation algorithm in Python - Nanodegree
+
+# Day 22 - 28th January 2019
+Completed Udacity Nanodegree Project of predicting Bike Sharing data
+
+# Day 23 - 29th January 2019
+Completed Udacity Nanodegree Project of predicting Bike Sharing data
+
+# Day 24 - 30th January 2019
+Completed Udacity Nanodegree Project of predicting Bike Sharing data
