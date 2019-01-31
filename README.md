@@ -2,7 +2,7 @@
 This repository contains all the codes and history of what I did during the 100DaysOfML challenge
 100DaysOfML is a challenge wherein I publicly commit to spend atleast 1 hour solving Machine Learning problems
 
-# Progress -> 24 days out of 100 completed
+# Progress -> 25 days out of 100 completed
 
 # Day 1 - 1st January 2019
 Started off with the challenge and uploaded all the previously completed content
@@ -75,3 +75,6 @@ Completed Udacity Nanodegree Project of predicting Bike Sharing data
 
 # Day 24 - 30th January 2019
 Completed Udacity Nanodegree Project of predicting Bike Sharing data
+
+# Day 25 - 31th January 2019
+Learnt about Principal Component Analysis, it's application, where it must be applied and where not
