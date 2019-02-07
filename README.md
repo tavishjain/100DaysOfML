@@ -81,3 +81,15 @@ Learnt about Principal Component Analysis, it's application, where it must be ap
 
 # Day 26 - 1st February 2019
 Implemented K-Means algorithms (for image compression) and Principal Component Analysis
+
+# Day 27 - 2nd February 2019
+Learnt about Anomaly Detection - Density estimation, gaussian distributiona and the algorithm
+
+# Day 28 - 3rd February 2019
+Learnt the differences between Anomaly Detection vs Supervised Learning and their use cases 
+
+# Day 29 - 4th February 2019
+Learnt about Recommender systems - the problem and content based recommendations
+
+# Day 30 - 5th February 2019
+Learnt about Collaborative filtering, and its algorithm
