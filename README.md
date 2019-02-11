@@ -2,7 +2,7 @@
 This repository contains all the codes and history of what I did during the 100DaysOfML challenge
 100DaysOfML is a challenge wherein I publicly commit to spend atleast 1 hour solving Machine Learning problems
 
-# Progress => 26 days out of 100 completed
+# Progress => 30 days out of 100 completed
 
 # Day 1 - 1st January 2019
 Started off with the challenge and uploaded all the previously completed content
@@ -81,3 +81,15 @@ Learnt about Principal Component Analysis, it's application, where it must be ap
 
 # Day 26 - 1st February 2019
 Implemented K-Means algorithms (for image compression) and Principal Component Analysis
+
+# Day 27 - 2nd February 2019
+Learnt about Anomaly Detection - Density estimation, gaussian distributiona and the algorithm
+
+# Day 28 - 3rd February 2019
+Learnt the differences between Anomaly Detection vs Supervised Learning and their use cases 
+
+# Day 29 - 4th February 2019
+Learnt about Recommender systems - the problem and content based recommendations
+
+# Day 30 - 5th February 2019
+Learnt about Collaborative filtering, and its algorithm
