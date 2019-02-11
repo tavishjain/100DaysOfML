@@ -92,4 +92,10 @@ Learnt the differences between Anomaly Detection vs Supervised Learning and thei
 Learnt about Recommender systems - the problem and content based recommendations
 
 # Day 30 - 5th February 2019
-Learnt about Collaborative filtering, and its algorithm
+Implemented the Anomaly Detection algorithm
+
+# Day 31 - 6th February 2019
+Implemented the Collaborative Filtering algorithm for Recommender systems 
+
+# Day 32 - 7th February 2019
+Implemented a Recommender System
