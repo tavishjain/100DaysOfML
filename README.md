@@ -99,3 +99,22 @@ Implemented the Collaborative Filtering algorithm for Recommender systems
 
 # Day 32 - 7th February 2019
 Implemented a Recommender System
+
+# Day 33 - 8th February 2019
+Completed Mini - Project 1 of Sentiment Analysis Model - Nanodegree
+
+# Day 34 - 9th February 2019
+Completed Mini - Project 2 of Sentiment Analysis Model - Nanodegree
+
+# Day 35 - 10th February 2019
+Completed Mini - Project 3 of Sentiment Analysis Model - Nanodegree
+
+# Day 36 - 11th February 2019
+Completed Mini - Project 4 of Sentiment Analysis Model - Nanodegree
+
+# Day 37 - 12th February 2019
+Completed Mini - Project 5 of Sentiment Analysis Model - Nanodegree
+
+# Day 38 - 13th February 2019
+Completed Mini - Project 6 of Sentiment Analysis Model - Nanodegree
+
