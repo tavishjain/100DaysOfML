@@ -2,8 +2,6 @@
 This repository contains all the codes and history of what I did during the 100DaysOfML challenge
 100DaysOfML is a challenge wherein I publicly commit to spend atleast 1 hour solving Machine Learning problems
 
-# Progress => 30 days out of 100 completed
-
 # Day 1 - 1st January 2019
 Started off with the challenge and uploaded all the previously completed content
 
@@ -118,3 +116,11 @@ Completed Mini - Project 5 of Sentiment Analysis Model - Nanodegree
 # Day 38 - 13th February 2019
 Completed Mini - Project 6 of Sentiment Analysis Model - Nanodegree
 
+# Day 39 - 14th February 2019
+Implemented Single Layer neural networks using PyTorch
+
+# Day 40 - 15th February 2019
+Implemented Multi Layer neural networks using PyTorch
+
+# Day 41 - 16th February 2019
+Implemented Neural networks using PyTorch's inbuilt methods torch.nn
