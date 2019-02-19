@@ -127,3 +127,6 @@ Implemented Neural networks using PyTorch's inbuilt methods torch.nn
 
 # Day 42 - 17th February 2019
 Implemented an MNIST digit classifier using PyTorch
+
+# Day 43 - 18th February 2019
+Implemented an MNIST Fashion classifier using PyTorch
