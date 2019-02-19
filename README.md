@@ -124,3 +124,6 @@ Implemented Multi Layer neural networks using PyTorch
 
 # Day 41 - 16th February 2019
 Implemented Neural networks using PyTorch's inbuilt methods torch.nn
+
+# Day 42 - 17th February 2019
+Implemented an MNIST digit classifier using PyTorch
