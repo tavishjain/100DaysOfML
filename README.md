@@ -2,6 +2,9 @@
 This repository contains all the codes and history of what I did during the 100DaysOfML challenge
 100DaysOfML is a challenge wherein I publicly commit to spend atleast 1 hour solving Machine Learning problems
 
+# Day 45 - 20th February 2019
+Learnt how to load image data into an ipynb notebook and applying data augmentation on it to create randomness with the available images itself
+
 # Day 44 - 19th February 2019
 Implemented an MNIST Fashion classifier using PyTorch, along with Dropout and validation checks
 
